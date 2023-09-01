@@ -9,4 +9,7 @@ Linux.
 Type:
 $ git clone https://github.com/FIkriBotDev/Apache2-Auto-Installer
 $ cd Apache2-Auto-Installer
-$ ./apache2setup.sh
+$ setup.sh
+
+# Note
+Dont forget to chmod +x ./setup.sh
