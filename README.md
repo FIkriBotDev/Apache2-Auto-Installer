@@ -7,6 +7,6 @@ Linux.
 
 # How to start
 Type:
-$ git clone https://github.com/FIkriBotDev/Apache2-Auto-Installer/tree/main
+$ git clone https://github.com/FIkriBotDev/Apache2-Auto-Installer
 $ cd Apache2-Auto-Installer
 $ ./apache2setup.sh
