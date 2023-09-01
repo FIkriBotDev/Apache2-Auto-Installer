@@ -6,4 +6,7 @@ Before you change the port, dont forget to clone this repository
 Linux.
 
 # How to start
-Type: ./apache2setup.sh
+Type:
+$ git clone https://github.com/FIkriBotDev/Apache2-Auto-Installer/tree/main
+$ cd Apache2-Auto-Installer
+$ ./apache2setup.sh
